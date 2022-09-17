@@ -167,19 +167,16 @@
 
 .et-icon-browser:before {
     content: "\e00c";
-    color: orange;
-    /**ajout de la couleur orange**/
+    color: orange
 }
 
 .et-icon-calendar:before {
-    content: "\e00d";
-
+    content: "\e00d"
 }
 
 .et-icon-presentation:before {
     content: "\e00e";
-    color: orange;
-    /**ajout de la couleur black **/
+    color: orange
 }
 
 .et-icon-picture:before {
@@ -236,8 +233,7 @@
 
 .et-icon-edit:before {
     content: "\e01c";
-    color: orange;
-    /**ajout de la couleur orange**/
+    color: orange
 }
 
 .et-icon-adjustments:before {
